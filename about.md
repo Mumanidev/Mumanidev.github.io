@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+iOS developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Swfit, RxSwfit, Android, iOS, Algorithm, Unreal Engine, Unity Engine, C++, C#, MVC, MVVM, HTTP, Spring, Spring Boot, Autolayout, Data Structure, MySql, EER Dirgram, Xcode, Android Studio
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:junyeonghwang54@domain.com)
