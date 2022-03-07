@@ -8,7 +8,7 @@ iOS developer
 
 ### More Information
 
-Swfit, RxSwfit, Android, iOS, Algorithm, Unreal Engine, Unity Engine, C++, C#, MVC, MVVM, HTTP, Spring, Spring Boot, Autolayout, Data Structure, MySql, EER Dirgram, Xcode, Android Studio
+Swfit, RxSwfit, Android, iOS, Algorithm, Unreal Engine, Unity Engine, C++, C#, MVC, MVVM, HTTP, Spring, Autolayout, Data Structure, MySql, EER Dirgram, Xcode, Android Studio
 
 ### Contact me
 
